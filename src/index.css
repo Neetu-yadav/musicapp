@@ -1,0 +1,43 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  text-align: "center";
+  
+
+}
+
+.btn{
+ 
+  margin-top: 50px;
+  margin-inline-start: 50px;
+  background-color: rgb(94, 93, 117);
+  color: #fff;
+}
+.card{
+  border: 1px solid gray;
+  margin-inline-start: 50px;
+  margin-top: 40px;
+  height: 150px;
+  width: 300px;
+  position: relative;
+  background-color: rgb(21, 22, 41);
+}
+.card-header{
+  position: absolute;
+  left: 150px;
+  margin: 10px;
+}
+
+.card-header h6{
+  font-size: 12px;
+  color: #fff;
+}
+
+
+.card-body{
+  height: 200px;
+
+}
